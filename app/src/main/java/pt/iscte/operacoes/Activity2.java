@@ -41,7 +41,7 @@ public class Activity2 extends AppCompatActivity {
                 if (number2 == 0)
                     result=0;
                 else
-                    result = number1 + number2;
+                    result = number1 / number2;
         }
 
 
